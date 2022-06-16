@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anx450z
+Hi, I’m Ankur Chauhan
 - 👀 I’m interested in Python, Ruby, React, CSS
 - 🌱 I’m currently learning Ruby on Rails, React, CSS
 - 💞️ I’m looking to collaborate on RoR applications
