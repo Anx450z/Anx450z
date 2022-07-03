@@ -14,5 +14,5 @@ Hi, I’m Ankur Chauhan
 <!-- <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewt-p&theme=onedark&langs_count=8"> -->
 <img height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=anx450z&theme=onedark&count_private=true&show_icons=true">
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=anx450z&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=anx450z&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB"> -->
 <div align="center">
