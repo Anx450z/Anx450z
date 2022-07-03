@@ -10,9 +10,9 @@ Hi, I’m Ankur Chauhan
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ankurox/)
 
 <br />
-
-
-<!---
-Anx450z/Anx450z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+<!-- <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewt-p&theme=onedark&langs_count=8"> -->
+<img height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mathewt-p&theme=onedark&count_private=true&show_icons=true">
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=mathewt-p&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<div align="center">
