@@ -1,4 +1,7 @@
 Hi, I’m Ankur Chauhan
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/rishudc119?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/anx450z)
+
 - 👀 I’m interested in Python, Ruby, React, CSS
 - 🌱 I’m currently learning Ruby on Rails, React, CSS
 - 💞️ I’m looking to collaborate on RoR applications
