@@ -54,4 +54,4 @@
 </div>
   <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=anx450z&theme=black-ice&hide_border=true&stroke=0000&background=1f1f1f&ring=fadd39&fire=fa5639&currStreakLabel=fadd39" alt="Nazarov Asadbek" /></div>
   
-![snake svg](https://github.com/anx450z/anx450z/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/Anx450z/Anx450z/blob/output/github-contribution-grid-snake.svg)
