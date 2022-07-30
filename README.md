@@ -10,6 +10,7 @@
 - 🌱 Continuously improving my skills on Ruby on Rails, React, TypeScript.
 - 💞️ I’m looking to collaborate on RoR applications.
 - 📫 Contact me : anx450z@gmail.com
+- 📦 3D artist
 
 ## Connect with me
 
