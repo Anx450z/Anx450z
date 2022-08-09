@@ -9,7 +9,7 @@
 - 👀 I’m interested in Rails, Ruby, React, TypeScript, Python, Node.
 - 🌱 Continuously improving my skills on Ruby on Rails, React, TypeScript.
 - 💞️ I’m looking to collaborate on web applications.
-- 📦 3D artist
+- 📦 3D artist :<a href="https://sketchfab.com/anx450z">Sketchfab</a>
 - 📫 Contact me : anx450z@gmail.com
 
 ## Connect with me
