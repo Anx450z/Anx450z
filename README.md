@@ -6,7 +6,7 @@
 ---
 ## Interests and Aspirations
 
-- 👀 I’m interested in Rails, Ruby, React, TypeScript, Python.
+- 👀 I’m interested in Rails, Ruby, React and other web technologies.
 - 🌱 Continuously improving my skills on Ruby on Rails, React.
 - 💞️ I’m looking to collaborate on web applications.
 - 📦 3D artist :<a href="https://sketchfab.com/anx450z">Sketchfab</a>
